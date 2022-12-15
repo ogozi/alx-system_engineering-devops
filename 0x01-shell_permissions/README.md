@@ -1,1 +1,1 @@
-betty shell permissions
+execute
